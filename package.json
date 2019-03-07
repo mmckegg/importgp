@@ -1,0 +1,14 @@
+{
+  "name": "importgp",
+  "version": "0.0.0",
+  "description": "Import footage from GoPro as a single file using ffmpeg.",
+  "bin": {
+    "importgp": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["GoPro", "Hero", "Session", "stitch", "import", "video", "merge", "combine", "mp4"],
+  "author": "Matt McKegg",
+  "license": "ISC"
+}
